@@ -2,7 +2,7 @@
   <img src="https://therealsujitk-vercel-badge.vercel.app/?app=ezralazuardy" alt="Deployment" target="_blank" rel="noopener noreferrer">
 </a>
 
-<a href="https://github.com/ezralazuardy/ezralazuardy.com/actions/workflows/codacy-analysis.yml">
+<a href="https://github.com/ezralazuardy/ezralazuardy.com/actions/workflows/codeql-analysis.yml">
   <img src="https://img.shields.io/github/workflow/status/ezralazuardy/ezralazuardy.com/CodeQL?label=security" alt="Security" target="_blank" rel="noopener noreferrer">
 </a>
 
