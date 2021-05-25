@@ -68,3 +68,9 @@ yarn-error.log
 
 # Yarn Integrity file
 .yarn-integrity
+
+# JetBrains IDE files
+.idea
+
+# VSCode files
+.vscode
