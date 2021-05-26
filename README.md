@@ -17,8 +17,3 @@ Open the website at https://ezralazuardy.com
 
 #### Inspired by
 - [margueriteroth/gatsby-prismic-starter-prist](https://github.com/margueriteroth/gatsby-prismic-starter-prist)
-
-<br/>
-
-## 📜 License
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fezralazuardy%2Fezralazuardy.com?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fezralazuardy%2Fezralazuardy.com.svg?type=large"/></a>
