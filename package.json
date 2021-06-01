@@ -37,7 +37,7 @@
     "react-modal": "^3.8.1",
     "react-moment": "^1.1.1",
     "react-router-dom": "^5.0.0",
-    "react-router-hash-link": "^1.2.1",
+    "react-router-hash-link": "^2.4.3",
     "smooth-scroll": "^16.0.3"
   },
   "devDependencies": {
