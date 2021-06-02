@@ -44,7 +44,7 @@ const SocialIcons = [
   },
   {
     image: faMedium,
-    link: "https://medium.com/@ezralazuardy",
+    link: "https://ezralazuardy.medium.com",
   },
   {
     image: faLinkedin,
