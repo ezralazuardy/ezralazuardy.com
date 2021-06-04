@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "gatsby-plugin-remove-trailing-slashes": "^3.6.0",
-    "prettier": "^1.18.2",
+    "prettier": "^2.3.0",
     "styles": "^0.2.1"
   },
   "keywords": [
