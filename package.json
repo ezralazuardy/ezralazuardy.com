@@ -22,7 +22,7 @@
     "gatsby-plugin-react-helmet": "^4.6.0",
     "gatsby-plugin-resolve-src": "^2.0.0",
     "gatsby-plugin-sass": "^2.0.11",
-    "gatsby-plugin-sharp": "^2.6.31",
+    "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-source-filesystem": "^3.6.0",
     "gatsby-source-prismic-graphql": "3.6.2",
     "gatsby-transformer-sharp": "^2.5.14",
