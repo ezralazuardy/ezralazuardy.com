@@ -6662,10 +6662,10 @@ gatsby-page-utils@^1.6.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-catch-links@^3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-3.7.0.tgz#26ac0dc1019b67c067f3a733787ecc02642ad91e"
-  integrity sha512-lpAkCQ8LSa6ONrjTsizcJHi04UgjrR56YwstKX568JbwgjENx+iNkjEAsAXqRh3eHEbfQNO5s7Z397VjBjA/lw==
+gatsby-plugin-catch-links@^3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-3.7.1.tgz#f3d56a7877ffa5ff797dccd6b1e15de87f21b854"
+  integrity sha512-KU+TLibFNogYnX+RIAPq6KrOVyq/JqlmEt3wLhUg1r3A5ul8WMzzk4HmMCF97wUdxi75iTRb9Mu2Cj7zMO4XVQ==
   dependencies:
     "@babel/runtime" "^7.14.0"
     escape-string-regexp "^1.0.5"
@@ -6689,14 +6689,14 @@ gatsby-plugin-manifest@^3.7.0:
     semver "^7.3.5"
     sharp "^0.28.1"
 
-gatsby-plugin-offline@^4.7.0:
-  version "4.7.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.7.0.tgz#b072c531f28e08b264b4a62938cd1261fa97051d"
-  integrity sha512-zq/FGTeCA8zvRtnW0Nk3HcrgWiaQCTO7dRQoPhOIYCO+oi18P6rSm41YZgrj3DgMmWfrbEDy6c+8AZacIpAgIA==
+gatsby-plugin-offline@^4.7.1:
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.7.1.tgz#9c49c3ad9595aa194a0f8c7b64d9b110662a459f"
+  integrity sha512-rK4oRxpiOsWQj5SNekcWuUY169OBrdYzxkYu+dOJM5rca6mPNMs0DkGJ4OqhIwxW+xGs6in9QKXbAtoc4ICQ6Q==
   dependencies:
     "@babel/runtime" "^7.14.0"
     cheerio "^1.0.0-rc.9"
-    gatsby-core-utils "^2.7.0"
+    gatsby-core-utils "^2.7.1"
     glob "^7.1.6"
     idb-keyval "^3.2.0"
     lodash "^4.17.21"
@@ -6724,10 +6724,10 @@ gatsby-plugin-react-helmet@^4.7.0:
   dependencies:
     "@babel/runtime" "^7.14.0"
 
-gatsby-plugin-remove-trailing-slashes@^3.7.0:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.7.0.tgz#9f78ab6716fe777293ff7cbc77e31f444b92bc47"
-  integrity sha512-0i2reT3x7bEFrfY/Qgs07p6Sllj3YS96Du0OpvcaC1a9SCmL/WC4rPVHYQTmr0QQiewP3kpX7yhqDv+o++v8gw==
+gatsby-plugin-remove-trailing-slashes@^3.7.1:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.7.1.tgz#02fda176315b33f6ed070a5e7d0f0a59b0a6dc18"
+  integrity sha512-j88WMNEBqqEi+Q/nVAKnENPIHeShS3OEd1mF2grRM9e4HtTyxuDxi7GSqW2fUdDqRreH3rAR7n640nr+sdBL8w==
   dependencies:
     "@babel/runtime" "^7.14.0"
 
