@@ -22,4 +22,4 @@ pull_request_rules:
         method: merge
         strict: smart
       comment:
-        message: 📦 Automatic merge on @dependabot pull requests
+        message: 📦 Automatic merge on @dependabot pull request
