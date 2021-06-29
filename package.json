@@ -13,7 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@reach/router": "^1.3.4",
-    "gatsby": "^3.8.0",
+    "gatsby": "^3.8.1",
     "gatsby-image": "^3.8.0",
     "gatsby-plugin-catch-links": "^3.8.0",
     "gatsby-plugin-emotion": "^4.1.0",
