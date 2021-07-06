@@ -6716,14 +6716,14 @@ gatsby-plugin-manifest@^3.9.0:
     semver "^7.3.5"
     sharp "^0.28.1"
 
-gatsby-plugin-offline@^4.8.0:
-  version "4.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.8.0.tgz#153edc53d35e15543db0d3010f084f93d5afb74e"
-  integrity sha512-TYla0Z78fnDI8z0OXlD7gzyEeoX5cNOdNOojlmctCZutgUaPpXm6FVpm1OSvHt1ImU5rgZtQNp5fTT6DKJwneA==
+gatsby-plugin-offline@^4.9.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.9.0.tgz#4283004284d60043801cb396f6497e95ade037a6"
+  integrity sha512-gxmx6Sm7JWrZ2n1iLW1yNbL84vwmP5UF2fB9LU2p+RFEELMa2ivektLtEz7nqjCEG35WbfjD8FjCL+WirfYNRw==
   dependencies:
     "@babel/runtime" "^7.14.0"
     cheerio "^1.0.0-rc.9"
-    gatsby-core-utils "^2.8.0"
+    gatsby-core-utils "^2.9.0"
     glob "^7.1.6"
     idb-keyval "^3.2.0"
     lodash "^4.17.21"
@@ -6751,10 +6751,10 @@ gatsby-plugin-react-helmet@^4.8.0:
   dependencies:
     "@babel/runtime" "^7.14.0"
 
-gatsby-plugin-remove-trailing-slashes@^3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.8.0.tgz#603a3c271dcc7c0bb0478f019202f248d00fa775"
-  integrity sha512-8FjHjR90lSWJ0kz/XXp0f55r4JWuSB/6hTvRwauee31n0cKhHWkA0LfnEUS1rNX5bUSo9i5I4Qvu0P4/xV2iNQ==
+gatsby-plugin-remove-trailing-slashes@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.9.0.tgz#5f682fbee54173279967c1b8a9bcc6c92ee2ee44"
+  integrity sha512-4wJNgBz7FzwmlNk+Pe3FZdVmc9hT9aPoUKf6d7FZIr0vAftCj02aQn1M94kR4IWvVcdbC0t3p+JCLtTbSD2MhQ==
   dependencies:
     "@babel/runtime" "^7.14.0"
 
