@@ -6689,10 +6689,10 @@ gatsby-page-utils@^1.8.0:
     lodash "^4.17.21"
     micromatch "^4.0.2"
 
-gatsby-plugin-catch-links@^3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-3.8.0.tgz#c507e51e05fb266b28203bb840befc799a1850c7"
-  integrity sha512-SjgNG27IJ6mU/TkMVrvkuZtCS5NJql/rDJ4JN0WGX3eN4n+vwR3YDLeeIFpfVouSYUFfoqIdhcbHI4QBDk9rvw==
+gatsby-plugin-catch-links@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-catch-links/-/gatsby-plugin-catch-links-3.9.0.tgz#b1cefce8b7254b8690b135f17dca4e32d6a0eea8"
+  integrity sha512-zugIqkQBn9I2fE50we+QHT6EsMQvmgsr1G7i4dRc87RRcFshYMG1UA1Lkj0BxPNI188wWEFzdwKh2R5UUnikQA==
   dependencies:
     "@babel/runtime" "^7.14.0"
     escape-string-regexp "^1.0.5"
@@ -6907,17 +6907,17 @@ gatsby-source-filesystem@^2.1.2:
     valid-url "^1.0.9"
     xstate "^4.11.0"
 
-gatsby-source-filesystem@^3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-3.8.0.tgz#d434e3dc4c297851313d56135e1208d00aa3feac"
-  integrity sha512-EyyqiIOhDeZ2EzykLRy3lR9WlpDrBCeHwn5wohvvjGBmWDnA54LloScIf1r/0PxSHSn/vFtXkBuh2Slzln5eag==
+gatsby-source-filesystem@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-3.9.0.tgz#3ed00f8139f14eff9e56568731aa7e8b77891c8a"
+  integrity sha512-Zgdscq4bMJy9KfZAN9daAxKytJBoxqvU3wckPR/74BgqZ89FNsy0bo0ABqbfz02NgdMxcn2XyPLUQ4eFJwHRvg==
   dependencies:
     "@babel/runtime" "^7.14.0"
     better-queue "^3.8.10"
     chokidar "^3.4.3"
     file-type "^16.0.0"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^2.8.0"
+    gatsby-core-utils "^2.9.0"
     got "^9.6.0"
     md5-file "^5.0.0"
     mime "^2.4.6"
