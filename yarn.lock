@@ -6682,10 +6682,10 @@ gatsby-image@^2.2.4:
     object-fit-images "^3.2.4"
     prop-types "^15.7.2"
 
-gatsby-image@^3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.10.0.tgz#f4013561736c0baef8c0ba2c72b760de78bc1b28"
-  integrity sha512-bbBqR2sY5wWt0qPAyV0Q2RJwy9Gd9Z+cs/go3XZDl/8XktyWSL2znoUPZfBJ1jnJ6VvbyqhDvmr7vM3zM70Xfw==
+gatsby-image@^3.11.0:
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-image/-/gatsby-image-3.11.0.tgz#9070ffd1e656b801052acfa9e470c34427c099e0"
+  integrity sha512-vRMhGLrgyQRH2RYs8leyZ1UyWYIew+NOZEsKur1w6gnWDf0U9UVmYFa9OIE1Vedlo1W+on3AuZ3/KwM+cI69VQ==
   dependencies:
     "@babel/runtime" "^7.14.6"
     object-fit-images "^3.2.4"
@@ -6783,10 +6783,10 @@ gatsby-plugin-react-helmet@^4.10.0:
   dependencies:
     "@babel/runtime" "^7.14.6"
 
-gatsby-plugin-remove-trailing-slashes@^3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.10.0.tgz#bbb7b1a0eb279153a1cf7ad408838b303c428f29"
-  integrity sha512-hqzL5p6FU+kFAixfDPjd85zW3h4jtXqZyaHJpFDek361rOZJ6I4J0b52s/qgXLJpMGBykQT9oPB1QL+r0GWFNQ==
+gatsby-plugin-remove-trailing-slashes@^3.11.0:
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-remove-trailing-slashes/-/gatsby-plugin-remove-trailing-slashes-3.11.0.tgz#d3d759302eeec495c3da529b66c1e8ad5c9a5230"
+  integrity sha512-WHJOLjkYta5eNjr/+9g7yQ5FbySVg41f69D36sgnsN/3NurlbSG47GQK5YaQ8zGpaaSxMwZyB2rm9O7pItN6gg==
   dependencies:
     "@babel/runtime" "^7.14.6"
 
@@ -6939,17 +6939,17 @@ gatsby-source-filesystem@^2.1.2:
     valid-url "^1.0.9"
     xstate "^4.11.0"
 
-gatsby-source-filesystem@^3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-3.10.0.tgz#57f1e3d7d778177316651a42c9fb62e457e4997b"
-  integrity sha512-u5gNZ/p6ZX0RQ2em2Y6e7VYNolavadHagizSsdbgxXKGMtJJq+q2OElGDfAvmAs6htIZ1jx7sF+dpS5ZHuCixw==
+gatsby-source-filesystem@^3.11.0:
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-3.11.0.tgz#b9d67f9a685e8542d1be0f0917a6223b31a787e4"
+  integrity sha512-cKQ4yhzLfw8Gs0B1FtgsLu51iqF+BUu/UewLBtu61I7Qyym797ESqeAvBd0bdHYckXmWl7c3qhBd1531iOXp2w==
   dependencies:
     "@babel/runtime" "^7.14.6"
     better-queue "^3.8.10"
     chokidar "^3.4.3"
     file-type "^16.0.0"
     fs-extra "^8.1.0"
-    gatsby-core-utils "^2.10.0"
+    gatsby-core-utils "^2.11.0"
     got "^9.6.0"
     md5-file "^5.0.0"
     mime "^2.4.6"
