@@ -36,7 +36,7 @@
     "react-markdown": "^4.0.6",
     "react-modal": "^3.14.4",
     "react-moment": "^1.1.1",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^6.4.5",
     "react-router-hash-link": "^2.4.3",
     "smooth-scroll": "^16.0.3"
   },
